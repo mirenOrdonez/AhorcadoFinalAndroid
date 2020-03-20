@@ -18,7 +18,7 @@
         android:text="_____"
         android:textAlignment="center"
         android:textColor="@android:color/holo_red_dark"
-        android:textSize="58sp" />
+        android:textSize="50sp" />
 
     <ImageView
         android:layout_width="match_parent"

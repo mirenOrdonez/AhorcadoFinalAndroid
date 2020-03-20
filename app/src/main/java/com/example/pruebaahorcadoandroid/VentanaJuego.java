@@ -44,6 +44,7 @@ public class VentanaJuego extends AppCompatActivity {
         Button boton = findViewById(vista.getId());
         boton.setVisibility(View.INVISIBLE);
         chequeaLetra(boton.getText().toString());
+        
     }
 
     private void chequeaLetra(String letra) {
